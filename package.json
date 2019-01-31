@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "bulma-monorepo",
+  "scripts": {},
+  "repository": {
+    "url": "retroxs/bulma",
+    "type": "git"
+  },
+  "author": "retroxs<retroxsx@gmail.com>",
+  "license": "MIT"
+}
